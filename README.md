@@ -1,6 +1,6 @@
 Healthcare Chatbot Mini Project
 -------------------------------
-
+🚀 **[Live Demo](https://healthcare-chattbot.streamlit.app/)**
 Project Overview:
 This is a simple, rule-based healthcare chatbot developed as a mini NLP project using only core Python functionality (no advanced NLP/ML libraries).  
 It answers common healthcare-related questions about symptoms, emergencies, diet, hygiene, vaccinations, and advice for special groups like children, elderly, and pregnant women.
