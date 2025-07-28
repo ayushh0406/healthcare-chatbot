@@ -81,10 +81,8 @@ Project Highlights:
 - Professional yet friendly UI using Streamlit with chat bubbles and emojis.
 - Fully compliant with academic mini-project guidelines restricting use of advanced NLP frameworks.
 
-Author: [Your Name]  
-Date: [Project Completion Date]
 
----
+
 
 If you want me to help you generate a `requirements.txt` or instructions for deployment, just ask!
    
